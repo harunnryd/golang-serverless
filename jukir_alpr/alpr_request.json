@@ -1,0 +1,17 @@
+{
+    "lpr": {
+        "image_url": "https://camargus.com/magazine/data/2/174/3650.jpeg",
+        "secret_key": "sk_757cf6785a0472290102148f",
+        "recognize_vehicle": 1,
+        "country": "id",
+        "state": "id",
+        "return_image": 0,
+        "topn": 10
+    },
+
+    "incoming_webhook": {
+        "end_point": "https://jukir.co/testing-alpr/create",
+        "authorization": "JUKIR AIUEO-!@#$%-SKSKS-FVCK-YVO!",
+        "method": "POST"
+    }
+}
